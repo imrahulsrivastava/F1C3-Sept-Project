@@ -6,6 +6,8 @@ footer {
 
 header {
   margin-top: 0px;
+  position: sticky;
+  top: 0;
 }
 
 #content-1 {
